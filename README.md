@@ -1,35 +1,56 @@
-# 👋 Hi, I'm Gnanendra Reddy!
+# 👋 Hi there! I'm Gnanendra Reddy!
 
-I am a passionate and dedicated undergraduate student currently pursuing my studies at **Jain University**.
+🚀 **AI Pioneer** | **Deep Learning Developer** | **Agentic Systems Enthusiast** | **Undergrad Innovator**
 
-I focus heavily on building intelligent systems and exploring the cutting edge of Artificial Intelligence. I'm always eager to apply my theoretical knowledge to challenging real-world projects.
-
----
-
-### 💻 My Core Technical Skills
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6600?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Badge"/>
-  <img src="https://img.shields.io/badge/NLP-4497CC?style=for-the-badge&logo=jupyter&logoColor=white" alt="NLP Badge"/>
-</p>
+I am an enthusiastic undergraduate student at **Jain University**, dedicated to exploring and mastering the complex landscape of Artificial Intelligence and advanced web technologies. I specialize in building robust solutions that leverage cutting-edge tools in Generative AI and MLOps.
 
 ---
 
-### 🌱 Looking to Collaborate
+### 🌟 About Me
 
-I am actively seeking collaboration opportunities with individuals and teams who are interested in projects involving my core skills, especially in the areas of **Generative AI** and **Agentic AI**. Let's build something amazing together!
+* 🎓 **Undergrad Student** at Jain University, focusing on core computer science and AI applications.
+* 🧠 **Deep Learning Enthusiast** with practical experience in implementing sophisticated models.
+* 🛠️ **Full-Stack Fundamentals** grounded in Python, Django, HTML, and CSS for comprehensive project development.
+* 💡 **Always innovating** and committed to staying current with the rapidly evolving field of AI.
 
 ---
 
-### 📫 Reach Me
+### 🛠️ Languages and Core Technologies
+
+Here are the key domains and tools I specialize in:
+
+#### 🤖 Artificial Intelligence & Frameworks
+| Domain | Skills |
+| :--- | :--- |
+| **Advanced AI** | Generative AI, Agentic AI, LangChain |
+| **Core AI** | Machine Learning, Deep Learning, Natural Language Processing (NLP) |
+| **Programming** | Python, Django |
+
+#### 🌐 Web Development Fundamentals
+| Language/Framework | Skills |
+| :--- | :--- |
+| **Frontend** | HTML, CSS |
+
+---
+
+### 🔥 Looking to Collaborate
+
+I am actively seeking collaboration opportunities for projects that challenge the boundaries of AI, particularly in **Generative AI** and **Agentic AI**. If you are interested in building the future of intelligent systems, let's connect!
+
+---
+
+### 📊 GitHub Stats
+
+[![Gnanendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gnanendra-reddy&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 💼 Connect with Me
 
 | Contact Method | Details |
 | :--- | :--- |
+| **LinkedIn** | [Zuvari Gnanendra Reddy](https://www.linkedin.com/in/zuvari-gnanendra-reddy-a84144361) |
 | **Email** | zuvarinamala@gmail.com |
-| **Phone** | +91 9491139613 |
+| **Phone** | +91 94911 39613 |
 
----
+Let's innovate and build something great! 🚀
