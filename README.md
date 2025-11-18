@@ -8,13 +8,14 @@ I focus heavily on building intelligent systems and exploring the cutting edge o
 
 ### 💻 My Core Technical Skills
 
-Here are the technologies and domains I currently work with:
-
-| Category | Skills |
-| :--- | :--- |
-| **Programming** | Python, HTML, CSS, Django |
-| **Artificial Intelligence** | Machine Learning, Deep Learning, Natural Language Processing (NLP) |
-| **Advanced AI** | Generative AI, Agentic AI, LangChain |
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6600?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Badge"/>
+  <img src="https://img.shields.io/badge/NLP-4497CC?style=for-the-badge&logo=jupyter&logoColor=white" alt="NLP Badge"/>
+</p>
 
 ---
 
@@ -32,5 +33,3 @@ I am actively seeking collaboration opportunities with individuals and teams who
 | **Phone** | +91 9491139613 |
 
 ---
-
-### 🚀 Quick Stats
