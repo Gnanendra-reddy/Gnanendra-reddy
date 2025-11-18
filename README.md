@@ -42,7 +42,7 @@ I am actively seeking collaboration opportunities for projects that challenge th
 ### 📊 GitHub Stats
 
 [![Gnanendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gnanendra-reddy&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
+| **LeetCode** | [![LeetCode Stats](https://leetcard.yannis.im/Gnanendra_Reddy?theme=dark)](https://leetcode.com/u/Gnanendra_Reddy/) |
 ---
 
 ### 💼 Connect with Me
