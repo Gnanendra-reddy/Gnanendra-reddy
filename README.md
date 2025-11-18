@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Gnanendra Reddy!
 
-<!--
-**Gnanendra-reddy/Gnanendra-reddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate and dedicated undergraduate student currently pursuing my studies at **Jain University**.
 
-Here are some ideas to get you started:
+I focus heavily on building intelligent systems and exploring the cutting edge of Artificial Intelligence. I'm always eager to apply my theoretical knowledge to challenging real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 My Core Technical Skills
+
+Here are the technologies and domains I currently work with:
+
+| Category | Skills |
+| :--- | :--- |
+| **Programming** | Python, HTML, CSS, Django |
+| **Artificial Intelligence** | Machine Learning, Deep Learning, Natural Language Processing (NLP) |
+| **Advanced AI** | Generative AI, Agentic AI, LangChain |
+
+---
+
+### 🌱 Looking to Collaborate
+
+I am actively seeking collaboration opportunities with individuals and teams who are interested in projects involving my core skills, especially in the areas of **Generative AI** and **Agentic AI**. Let's build something amazing together!
+
+---
+
+### 📫 Reach Me
+
+| Contact Method | Details |
+| :--- | :--- |
+| **Email** | zuvarinamala@gmail.com |
+| **Phone** | +91 9491139613 |
+
+---
+
+### 🚀 Quick Stats
